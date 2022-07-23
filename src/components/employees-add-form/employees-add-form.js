@@ -1,6 +1,7 @@
 import { Component } from 'react';
 
-import './employees-add-form.css'
+// import './employees-add-form.css'
+import './employyes-add-form.scss'
 
 // const EmployeesAddForm = () => {
 //     return (

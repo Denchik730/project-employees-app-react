@@ -27,7 +27,7 @@ const AppFilter = (props) => {
 
         // <div className="btn-group">
         //     <button 
-        //         className="btn btn-light"
+        //        className="btn btn-light"
         //         type="button">
         //             Все сотрудники
         //     </button>
